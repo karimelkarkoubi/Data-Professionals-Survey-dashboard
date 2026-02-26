@@ -1,0 +1,6 @@
+# Power BI file
+*.pbix binary
+
+# System files
+.DS_Store
+Thumbs.db
